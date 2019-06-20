@@ -1,0 +1,10 @@
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\bin\Debug\unitconverter2.exe.config
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\bin\Debug\unitconverter2.exe
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\bin\Debug\unitconverter2.pdb
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.Form1.resources
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.Properties.Resources.resources
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.exe
+C:\Users\Max\source\repos\unitconverter2\unitconverter2\obj\Debug\unitconverter2.pdb
